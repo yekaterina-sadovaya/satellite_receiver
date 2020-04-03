@@ -1,0 +1,985 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+   <Placemark>
+      <name>1</name>
+      <description>Height above Earth = 12</description>
+      <Point>
+         <coordinates>30.380291,59.993548,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>2</name>
+      <description>Height above Earth = 105</description>
+      <Point>
+         <coordinates>30.379626,59.993685,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>3</name>
+      <description>Height above Earth = 12</description>
+      <Point>
+         <coordinates>30.379091,59.993858,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>4</name>
+      <description>Height above Earth = 72</description>
+      <Point>
+         <coordinates>30.380221,59.994096,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>5</name>
+      <description>Height above Earth = -20</description>
+      <Point>
+         <coordinates>30.379686,59.994269,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>6</name>
+      <description>Height above Earth = 217</description>
+      <Point>
+         <coordinates>30.380921,59.993634,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>7</name>
+      <description>Height above Earth = 103</description>
+      <Point>
+         <coordinates>30.379907,59.993541,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>8</name>
+      <description>Height above Earth = 260</description>
+      <Point>
+         <coordinates>30.379955,59.993509,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>9</name>
+      <description>Height above Earth = 168</description>
+      <Point>
+         <coordinates>30.379420,59.993682,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>10</name>
+      <description>Height above Earth = 42</description>
+      <Point>
+         <coordinates>30.380680,59.993956,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>11</name>
+      <description>Height above Earth = 216</description>
+      <Point>
+         <coordinates>30.381205,59.993492,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>12</name>
+      <description>Height above Earth = -163</description>
+      <Point>
+         <coordinates>30.381877,59.993273,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>13</name>
+      <description>Height above Earth = -6</description>
+      <Point>
+         <coordinates>30.381926,59.993242,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>14</name>
+      <description>Height above Earth = -98</description>
+      <Point>
+         <coordinates>30.381391,59.993417,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>15</name>
+      <description>Height above Earth = 37</description>
+      <Point>
+         <coordinates>30.380963,59.993118,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>16</name>
+      <description>Height above Earth = -55</description>
+      <Point>
+         <coordinates>30.380427,59.993293,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>17</name>
+      <description>Height above Earth = 38</description>
+      <Point>
+         <coordinates>30.379765,59.993433,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>18</name>
+      <description>Height above Earth = -87</description>
+      <Point>
+         <coordinates>30.381024,59.993708,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>19</name>
+      <description>Height above Earth = 6</description>
+      <Point>
+         <coordinates>30.380363,59.993848,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>20</name>
+      <description>Height above Earth = -22</description>
+      <Point>
+         <coordinates>30.380540,59.993853,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>21</name>
+      <description>Height above Earth = 130</description>
+      <Point>
+         <coordinates>30.380591,59.993123,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>22</name>
+      <description>Height above Earth = 38</description>
+      <Point>
+         <coordinates>30.380055,59.993300,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>23</name>
+      <description>Height above Earth = 10</description>
+      <Point>
+         <coordinates>30.380232,59.993305,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>24</name>
+      <description>Height above Earth = 6</description>
+      <Point>
+         <coordinates>30.380653,59.993716,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>25</name>
+      <description>Height above Earth = -22</description>
+      <Point>
+         <coordinates>30.380831,59.993722,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>26</name>
+      <description>Height above Earth = 72</description>
+      <Point>
+         <coordinates>30.380171,59.993863,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>27</name>
+      <description>Height above Earth = -54</description>
+      <Point>
+         <coordinates>30.381430,59.994139,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>28</name>
+      <description>Height above Earth = 195</description>
+      <Point>
+         <coordinates>30.380402,59.993140,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>29</name>
+      <description>Height above Earth = 7</description>
+      <Point>
+         <coordinates>30.380947,59.993588,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>30</name>
+      <description>Height above Earth = 163</description>
+      <Point>
+         <coordinates>30.381002,59.993558,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>31</name>
+      <description>Height above Earth = 72</description>
+      <Point>
+         <coordinates>30.380466,59.993736,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>32</name>
+      <description>Height above Earth = 131</description>
+      <Point>
+         <coordinates>30.381602,59.993976,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>33</name>
+      <description>Height above Earth = 40</description>
+      <Point>
+         <coordinates>30.381066,59.994155,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>34</name>
+      <description>Height above Earth = 25</description>
+      <Point>
+         <coordinates>30.378972,59.993796,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>35</name>
+      <description>Height above Earth = 84</description>
+      <Point>
+         <coordinates>30.380109,59.994036,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>36</name>
+      <description>Height above Earth = -7</description>
+      <Point>
+         <coordinates>30.379572,59.994216,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>37</name>
+      <description>Height above Earth = 230</description>
+      <Point>
+         <coordinates>30.380822,59.993584,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>38</name>
+      <description>Height above Earth = 42</description>
+      <Point>
+         <coordinates>30.381365,59.994034,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>39</name>
+      <description>Height above Earth = 198</description>
+      <Point>
+         <coordinates>30.381423,59.994004,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>40</name>
+      <description>Height above Earth = 183</description>
+      <Point>
+         <coordinates>30.379330,59.993646,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>41</name>
+      <description>Height above Earth = 179</description>
+      <Point>
+         <coordinates>30.379753,59.994058,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>42</name>
+      <description>Height above Earth = 151</description>
+      <Point>
+         <coordinates>30.379932,59.994067,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>43</name>
+      <description>Height above Earth = 56</description>
+      <Point>
+         <coordinates>30.379395,59.993549,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>44</name>
+      <description>Height above Earth = 120</description>
+      <Point>
+         <coordinates>30.380534,59.994489,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>45</name>
+      <description>Height above Earth = 105</description>
+      <Point>
+         <coordinates>30.381190,59.993369,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>46</name>
+      <description>Height above Earth = -21</description>
+      <Point>
+         <coordinates>30.382448,59.993649,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>47</name>
+      <description>Height above Earth = -36</description>
+      <Point>
+         <coordinates>30.380355,59.993291,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>48</name>
+      <description>Height above Earth = 58</description>
+      <Point>
+         <coordinates>30.379700,59.993435,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>49</name>
+      <description>Height above Earth = -67</description>
+      <Point>
+         <coordinates>30.380958,59.993715,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>50</name>
+      <description>Height above Earth = 27</description>
+      <Point>
+         <coordinates>30.380303,59.993859,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>51</name>
+      <description>Height above Earth = -1</description>
+      <Point>
+         <coordinates>30.380482,59.993869,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>52</name>
+      <description>Height above Earth = 151</description>
+      <Point>
+         <coordinates>30.380546,59.993141,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>53</name>
+      <description>Height above Earth = 61</description>
+      <Point>
+         <coordinates>30.380008,59.993325,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>54</name>
+      <description>Height above Earth = 217</description>
+      <Point>
+         <coordinates>30.380072,59.993296,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>55</name>
+      <description>Height above Earth = 29</description>
+      <Point>
+         <coordinates>30.380612,59.993750,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>56</name>
+      <description>Height above Earth = 2</description>
+      <Point>
+         <coordinates>30.380792,59.993761,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>57</name>
+      <description>Height above Earth = 96</description>
+      <Point>
+         <coordinates>30.380139,59.993906,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>58</name>
+      <description>Height above Earth = -92</description>
+      <Point>
+         <coordinates>30.380679,59.994361,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>59</name>
+      <description>Height above Earth = 140</description>
+      <Point>
+         <coordinates>30.379189,59.993791,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>60</name>
+      <description>Height above Earth = 51</description>
+      <Point>
+         <coordinates>30.378652,59.993977,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>61</name>
+      <description>Height above Earth = 189</description>
+      <Point>
+         <coordinates>30.380990,59.993617,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>62</name>
+      <description>Height above Earth = -89</description>
+      <Point>
+         <coordinates>30.380568,59.993143,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>63</name>
+      <description>Height above Earth = -31</description>
+      <Point>
+         <coordinates>30.381711,59.993385,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>64</name>
+      <description>Height above Earth = 69</description>
+      <Point>
+         <coordinates>30.381058,59.994230,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>65</name>
+      <description>Height above Earth = 49</description>
+      <Point>
+         <coordinates>30.378968,59.993175,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>66</name>
+      <description>Height above Earth = 193</description>
+      <Point>
+         <coordinates>30.381307,59.993516,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>67</name>
+      <description>Height above Earth = -86</description>
+      <Point>
+         <coordinates>30.380883,59.993044,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>68</name>
+      <description>Height above Earth = 71</description>
+      <Point>
+         <coordinates>30.380951,59.993016,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>69</name>
+      <description>Height above Earth = -116</description>
+      <Point>
+         <coordinates>30.381490,59.993473,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>70</name>
+      <description>Height above Earth = -22</description>
+      <Point>
+         <coordinates>30.380839,59.993620,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>71</name>
+      <description>Height above Earth = 26</description>
+      <Point>
+         <coordinates>30.379467,59.993092,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>72</name>
+      <description>Height above Earth = 22</description>
+      <Point>
+         <coordinates>30.379894,59.993508,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>73</name>
+      <description>Height above Earth = -4</description>
+      <Point>
+         <coordinates>30.380074,59.993522,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>74</name>
+      <description>Height above Earth = -94</description>
+      <Point>
+         <coordinates>30.379536,59.993711,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>75</name>
+      <description>Height above Earth = -17</description>
+      <Point>
+         <coordinates>30.381160,59.993526,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>76</name>
+      <description>Height above Earth = 31</description>
+      <Point>
+         <coordinates>30.379789,59.992999,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>77</name>
+      <description>Height above Earth = 126</description>
+      <Point>
+         <coordinates>30.379140,59.993146,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>78</name>
+      <description>Height above Earth = 0</description>
+      <Point>
+         <coordinates>30.380397,59.993431,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>79</name>
+      <description>Height above Earth = 95</description>
+      <Point>
+         <coordinates>30.379749,59.993578,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>80</name>
+      <description>Height above Earth = -30</description>
+      <Point>
+         <coordinates>30.381005,59.993863,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>81</name>
+      <description>Height above Earth = 145</description>
+      <Point>
+         <coordinates>30.381556,59.993410,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>82</name>
+      <description>Height above Earth = 56</description>
+      <Point>
+         <coordinates>30.381017,59.993601,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>83</name>
+      <description>Height above Earth = 6</description>
+      <Point>
+         <coordinates>30.380722,59.993343,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>84</name>
+      <description>Height above Earth = 100</description>
+      <Point>
+         <coordinates>30.380075,59.993491,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>85</name>
+      <description>Height above Earth = 74</description>
+      <Point>
+         <coordinates>30.380257,59.993508,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>86</name>
+      <description>Height above Earth = 70</description>
+      <Point>
+         <coordinates>30.380685,59.993925,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>87</name>
+      <description>Height above Earth = -19</description>
+      <Point>
+         <coordinates>30.380146,59.994117,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>88</name>
+      <description>Height above Earth = 213</description>
+      <Point>
+         <coordinates>30.378670,59.993547,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>89</name>
+      <description>Height above Earth = 26</description>
+      <Point>
+         <coordinates>30.379205,59.994008,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>90</name>
+      <description>Height above Earth = 201</description>
+      <Point>
+         <coordinates>30.379759,59.993557,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>91</name>
+      <description>Height above Earth = 76</description>
+      <Point>
+         <coordinates>30.381016,59.993843,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>92</name>
+      <description>Height above Earth = -12</description>
+      <Point>
+         <coordinates>30.380476,59.994036,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>93</name>
+      <description>Height above Earth = 145</description>
+      <Point>
+         <coordinates>30.380552,59.994010,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>94</name>
+      <description>Height above Earth = 33</description>
+      <Point>
+         <coordinates>30.379537,59.993929,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>95</name>
+      <description>Height above Earth = 269</description>
+      <Point>
+         <coordinates>30.380815,59.993302,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>96</name>
+      <description>Height above Earth = -106</description>
+      <Point>
+         <coordinates>30.381458,59.993108,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>97</name>
+      <description>Height above Earth = -12</description>
+      <Point>
+         <coordinates>30.380814,59.993258,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>98</name>
+      <description>Height above Earth = -38</description>
+      <Point>
+         <coordinates>30.380996,59.993277,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>99</name>
+      <description>Height above Earth = -42</description>
+      <Point>
+         <coordinates>30.381425,59.993696,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>100</name>
+      <description>Height above Earth = 7</description>
+      <Point>
+         <coordinates>30.380059,59.993171,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>101</name>
+      <description>Height above Earth = -81</description>
+      <Point>
+         <coordinates>30.379519,59.993366,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>102</name>
+      <description>Height above Earth = -84</description>
+      <Point>
+         <coordinates>30.379949,59.993785,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>103</name>
+      <description>Height above Earth = -31</description>
+      <Point>
+         <coordinates>30.381333,59.993205,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>104</name>
+      <description>Height above Earth = 64</description>
+      <Point>
+         <coordinates>30.380690,59.993355,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>105</name>
+      <description>Height above Earth = -60</description>
+      <Point>
+         <coordinates>30.381946,59.993644,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>106</name>
+      <description>Height above Earth = 110</description>
+      <Point>
+         <coordinates>30.379755,59.993250,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>107</name>
+      <description>Height above Earth = 22</description>
+      <Point>
+         <coordinates>30.379215,59.993447,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>108</name>
+      <description>Height above Earth = -103</description>
+      <Point>
+         <coordinates>30.380470,59.993736,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>109</name>
+      <description>Height above Earth = -8</description>
+      <Point>
+         <coordinates>30.379829,59.993888,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>110</name>
+      <description>Height above Earth = -33</description>
+      <Point>
+         <coordinates>30.380011,59.993909,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>111</name>
+      <description>Height above Earth = 117</description>
+      <Point>
+         <coordinates>30.380098,59.993183,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>112</name>
+      <description>Height above Earth = 92</description>
+      <Point>
+         <coordinates>30.380281,59.993205,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>113</name>
+      <description>Height above Earth = 88</description>
+      <Point>
+         <coordinates>30.380712,59.993625,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>114</name>
+      <description>Height above Earth = 0</description>
+      <Point>
+         <coordinates>30.380172,59.993823,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>115</name>
+      <description>Height above Earth = 157</description>
+      <Point>
+         <coordinates>30.380255,59.993799,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>116</name>
+      <description>Height above Earth = -29</description>
+      <Point>
+         <coordinates>30.380787,59.994266,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>117</name>
+      <description>Height above Earth = 38</description>
+      <Point>
+         <coordinates>30.379903,59.993319,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>118</name>
+      <description>Height above Earth = 195</description>
+      <Point>
+         <coordinates>30.379987,59.993295,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>119</name>
+      <description>Height above Earth = 9</description>
+      <Point>
+         <coordinates>30.380518,59.993762,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>120</name>
+      <description>Height above Earth = 166</description>
+      <Point>
+         <coordinates>30.380603,59.993739,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>121</name>
+      <description>Height above Earth = 79</description>
+      <Point>
+         <coordinates>30.380063,59.993938,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>122</name>
+      <description>Height above Earth = 150</description>
+      <Point>
+         <coordinates>30.378949,59.993813,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>123</name>
+      <description>Height above Earth = 204</description>
+      <Point>
+         <coordinates>30.380338,59.993237,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>124</name>
+      <description>Height above Earth = 18</description>
+      <Point>
+         <coordinates>30.380868,59.993705,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>125</name>
+      <description>Height above Earth = 175</description>
+      <Point>
+         <coordinates>30.380954,59.993682,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>126</name>
+      <description>Height above Earth = 88</description>
+      <Point>
+         <coordinates>30.380414,59.993883,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>127</name>
+      <description>Height above Earth = 159</description>
+      <Point>
+         <coordinates>30.379301,59.993758,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>128</name>
+      <description>Height above Earth = 134</description>
+      <Point>
+         <coordinates>30.379485,59.993782,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>129</name>
+      <description>Height above Earth = 21</description>
+      <Point>
+         <coordinates>30.381226,59.992951,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>130</name>
+      <description>Height above Earth = -4</description>
+      <Point>
+         <coordinates>30.381410,59.992975,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>131</name>
+      <description>Height above Earth = -91</description>
+      <Point>
+         <coordinates>30.380869,59.993177,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>132</name>
+      <description>Height above Earth = -33</description>
+      <Point>
+         <coordinates>30.382028,59.993423,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>133</name>
+      <description>Height above Earth = -45</description>
+      <Point>
+         <coordinates>30.379942,59.993078,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>134</name>
+      <description>Height above Earth = 51</description>
+      <Point>
+         <coordinates>30.379306,59.993232,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>135</name>
+      <description>Height above Earth = -74</description>
+      <Point>
+         <coordinates>30.380560,59.993526,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>136</name>
+      <description>Height above Earth = 22</description>
+      <Point>
+         <coordinates>30.379924,59.993681,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>137</name>
+      <description>Height above Earth = 15</description>
+      <Point>
+         <coordinates>30.380589,59.993285,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>138</name>
+      <description>Height above Earth = -35</description>
+      <Point>
+         <coordinates>30.380299,59.993031,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>139</name>
+      <description>Height above Earth = 61</description>
+      <Point>
+         <coordinates>30.379664,59.993187,0</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>140</name>
+      <description>Height above Earth = -63</description>
+      <Point>
+         <coordinates>30.380918,59.993481,0</coordinates>
+      </Point>
+   </Placemark>
+</Document>
+</kml>
